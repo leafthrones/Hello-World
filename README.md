@@ -1,2 +1,3 @@
 # Hello-World
-just a beginning
+- It's just a beginning for me.
+- Hope to make it by myself.
